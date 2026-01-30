@@ -8,6 +8,11 @@ A full-stack Job & Internship Portal built with React (Vite + Tailwind), Node.js
 - Job listings, applications, and dashboards
 - Clean modern UI with responsive layout
 - Prisma schema + seed data
+- DevOps stack: Docker Compose, Redis cache, Nginx reverse proxy, Varnish cache, CI/CD, DB backup
+
+## DevOps Guide
+For the full internship-report setup (Docker + Nginx + Varnish + CI/CD + backups + AWS), see:
+`docs/DEVOPS.md`
 
 ## Local Setup
 
